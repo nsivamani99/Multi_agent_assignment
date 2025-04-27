@@ -1,0 +1,25 @@
+[ User Input: Company Name ]
+          |
+          ↓
++------------------------+
+|    Research Agent      |
+|  - Industry Research   |
+|  - Company Focus Areas |
++------------------------+
+          |
+          ↓
++------------------------+
+|    Use Case Agent      |
+|  - Analyze Trends      |
+|  - Generate Use Cases  |
++------------------------+
+          |
+          ↓
++------------------------+
+|  Resource Asset Agent  |
+|  - Search Datasets     |
+|  - Collect Links       |
++------------------------+
+          |
+          ↓
+[ Save Output (Markdown) ]
